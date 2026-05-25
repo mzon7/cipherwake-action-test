@@ -27,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run Cipherwake Trust Diff
-        uses: cipherwakelabs/pqcheck@v3
+        uses: cipherwakelabs/pqcheck/action@v3
         with:
           mode: trust-diff
           domain: cipherwake.io
