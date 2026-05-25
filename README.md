@@ -9,3 +9,5 @@ Throwaway repo to verify the pqcheck onboard / Action flow end-to-end.
 <!-- retest 2 -->
 
 <!-- retest 3: after trust-diff fix -->
+
+<!-- retest 4: after trust-diff real deploy -->
