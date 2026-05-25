@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "generator": "pqcheck-cli/0.16.11",
+  "domain": "cipherwake.io",
+  "generated_at": "2026-05-25T16:09:25.114Z",
+  "approved_script_origins": [],
+  "synced_from_account": null
+}
