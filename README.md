@@ -7,3 +7,5 @@ Throwaway repo to verify the pqcheck onboard / Action flow end-to-end.
 <!-- trigger retest of action with fixed v3 tag -->
 
 <!-- retest 2 -->
+
+<!-- retest 3: after trust-diff fix -->
